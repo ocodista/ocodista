@@ -13,14 +13,14 @@ I believe in the power of open-source communities and love contributing to them.
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
-![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-000?logo=material-ui)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
