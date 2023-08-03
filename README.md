@@ -1,6 +1,5 @@
 # Hi there, I'm Caio Borghi 👋
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/caio-borghi)
+![My profile picture](https://creatorspace.imgix.net/users/clfjrcyzc00r6pz0yl9mog3pc/kiibqrQmu9OkiDtY-CJNuC5xOQ8aGm2qkU2AD_wltIlJ90I1mVhSDD.png?w=300&h=300)  
 
 ## About Me 🚀
 
