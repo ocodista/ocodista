@@ -34,9 +34,11 @@ I believe in the power of open-source communities and love contributing to them.
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
 ### Databases
+![Supabase](https://img.shields.io/badge/Supabase-000?&logo=supabase)
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ## 📚 Open Source Contributions
 
