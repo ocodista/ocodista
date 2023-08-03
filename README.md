@@ -1,4 +1,4 @@
-# Hi there, I'm Caio Borghi - A Senior Software Engineer & Open Source Contributor👋
+# Hi there, I'm Caio Borghi 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/caio-borghi)
 
