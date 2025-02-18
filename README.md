@@ -1,14 +1,12 @@
 # Hi there, I'm Caio Borghi 👋
 
 ## About Me 🚀
-I'm a passionate Senior Software Engineer, carrying 7+ years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
+I'm a passionate Senior Software Engineer, carrying 8+ years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
 
-I believe in the power of open-source communities and love contributing to them.
-
-💡 I enjoy exploring new tech stack and using them to build cool things.\
+💡 I enjoy exploring new tech stack and using them to build things.\
 🎓 I hold a Bachelor's Degree in Computer Science from São Paulo State University.\
-🌱 I'm on track for learning more about Systems Design, Software Architecture, and AI.\
-✍️ When I'm not coding, you can find me [writing](https://dev.to/ocodista) or crafting side projects.
+🌱 I'm on track to learn more about Systems Design, Software Architecture, and AI.\
+✍️ When I'm not programming, I like to [write](https://dev.to/ocodista).
 
 ## 🛠️ Technologies & Tools
 
@@ -40,7 +38,7 @@ I believe in the power of open-source communities and love contributing to them.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-## 📚 Open Source Contributions
+## Open Source Contributions
 
 I've contributed to open-source projects like:
 
@@ -50,24 +48,33 @@ I've contributed to open-source projects like:
 
 - [`shadcn/ui`](https://github.com/shadcn/ui): An awesome user interface component library built on top of TailwindCS.
 
-And I've also built two popular VSCode extensions that has over 30,000 downloads:
+## Side Projects
+I've built two popular VSCode extensions that have +100,000 users.
 
-- `VSCode AutoSave`: An extension to automatically save changes in the IDE. Check [here](https://marketplace.visualstudio.com/items?itemName=codista.vscode-autosave)
-- `GPT Coder`: One of the first extensions to integrate GPT-3 to VSCode. [Check it out.](https://marketplace.visualstudio.com/items?itemName=codista.vscodewriter)
+- [`VSCode AutoSave`](https://marketplace.visualstudio.com/items?itemName=codista.vscode-autosave): Save a file whenever there is no error.
+- [`GPT Coder`](https://marketplace.visualstudio.com/items?itemName=codista.vscodewriter): One of the first extensions to integrate GPT-3 to VSCode.
 
 ## 📫 How to reach me
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/caio-borghi) or drop me an email at caiohoborghi@gmail.com. I'll try my best to respond as soon as possible!
 
 ## 🚧 Currently working on...
-I'm currently working as a Senior React Developer at Lean Tech, on an innovative dental software application servicing over 3,000 client offices across the US. 
+I'm currently working as a Senior React Developer at Market Axess, responsible for the performance of a web trading platform. 
 
-The main tecnologies I'm using at this project are:
+The main technologies I'm using for this project are:
+
 - React
 - TypeScript
 - Redux Toolkit Query
 - Jest
 - React Testing Library
-- GitHub Actions
+- TailwindCSS
+- Vite
+- Prettier + ESLint
+- AWS DynamoDB
+- WebSockets management with RxJs
+- Java 21
+- Kafka Streaming
+
   
 💬 Feel free to reach out to me for consultations, collaborations or just for some interesting discussions.
