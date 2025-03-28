@@ -1,7 +1,7 @@
 # Hi there, I'm Caio Borghi 👋
 
 ## About Me 🚀
-I'm a passionate Senior Software Engineer, carrying 8+ years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
+I'm a passionate Senior Software Engineer, carrying 9+ years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
 
 💡 I enjoy exploring new tech stack and using them to build things.\
 🎓 I hold a Bachelor's Degree in Computer Science from São Paulo State University.\
