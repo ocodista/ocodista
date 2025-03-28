@@ -1,11 +1,9 @@
 # Hi there, I'm Caio Borghi 👋
 
 ## About Me 🚀
-I'm a passionate Senior Software Engineer, carrying 9+ years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
+I'm a passionate Senior Software Engineer, carrying 9+ years of professional experience in the tech industry, specialized in web applications with JS/TypeScript.
 
-💡 I enjoy exploring new tech stack and using them to build things.\
 🎓 I hold a Bachelor's Degree in Computer Science from São Paulo State University.\
-🌱 I'm on track to learn more about Systems Design, Software Architecture, and AI.\
 ✍️ When I'm not programming, I like to [write](https://dev.to/ocodista).
 
 ## 🛠️ Technologies & Tools
