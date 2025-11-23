@@ -36,15 +36,6 @@ I'm a passionate Senior Software Engineer, carrying 9+ years of professional exp
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-## Open Source Contributions
-
-I've contributed to open-source projects like:
-
-- [`@faker-js`](https://github.com/faker-js/faker): A powerful tool for generating massive amounts of fake data with JavaScript.
-
-- [`Meteor.js`](https://github.com/meteor/meteor): A full-stack JavaScript platform for developing modern web and mobile applications.
-
-- [`shadcn/ui`](https://github.com/shadcn/ui): An awesome user interface component library built on top of TailwindCS.
 
 ## Side Projects
 I've built two popular VSCode extensions that have +100,000 users.
@@ -52,27 +43,11 @@ I've built two popular VSCode extensions that have +100,000 users.
 - [`VSCode AutoSave`](https://marketplace.visualstudio.com/items?itemName=codista.vscode-autosave): Save a file whenever there is no error.
 - [`GPT Coder`](https://marketplace.visualstudio.com/items?itemName=codista.vscodewriter): One of the first extensions to integrate GPT-3 to VSCode.
 
-## 📫 How to reach me
+## 🚧 Currently working on...
+I'm currently working as a Senior React Developer at Swoogo, a Series B Startup focused on bringing people together (events software).
 
+## 📫 How to reach me
 You can reach me on [LinkedIn](https://www.linkedin.com/in/caio-borghi) or drop me an email at caiohoborghi@gmail.com. I'll try my best to respond as soon as possible!
 
-## 🚧 Currently working on...
-I'm currently working as a Senior React Developer at Market Axess, responsible for the performance of a web trading platform. 
 
-The main technologies I'm using for this project are:
 
-- React
-- TypeScript
-- Redux Toolkit Query
-- Jest
-- React Testing Library
-- TailwindCSS
-- Vite
-- Prettier + ESLint
-- AWS DynamoDB
-- WebSockets management with RxJs
-- Java 21
-- Kafka Streaming
-
-  
-💬 Feel free to reach out to me for consultations, collaborations or just for some interesting discussions.
