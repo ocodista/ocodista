@@ -1,16 +1,17 @@
 # Hi there, I'm Caio Borghi 👋
 
-## About Me 🚀
-I'm a passionate Senior Software Engineer, carrying 9+ years of professional experience in the tech industry, specialized in web applications with JS/TypeScript.
+## About
 
-🎓 I hold a Bachelor's Degree in Computer Science from São Paulo State University.\
-✍️ When I'm not programming, I like to [write](https://dev.to/ocodista).
+Senior Software Engineer with 9 years of experience building web applications in TypeScript.
 
-## 🛠️ Technologies & Tools
+Computer Science degree from São Paulo State University. When I'm not coding, I [write about programming](https://dev.to/ocodista).
+
+## Technologies
 
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -36,18 +37,27 @@ I'm a passionate Senior Software Engineer, carrying 9+ years of professional exp
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
+### AI
+![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 
-## Side Projects
-I've built two popular VSCode extensions that have +100,000 users.
+## Projects
 
-- [`VSCode AutoSave`](https://marketplace.visualstudio.com/items?itemName=codista.vscode-autosave): Save a file whenever there is no error.
-- [`GPT Coder`](https://marketplace.visualstudio.com/items?itemName=codista.vscodewriter): One of the first extensions to integrate GPT-3 to VSCode.
-
-## 🚧 Currently working on...
-I'm currently working as a Senior React Developer at Swoogo, a Series B Startup focused on bringing people together (events software).
-
-## 📫 How to reach me
-You can reach me on [LinkedIn](https://www.linkedin.com/in/caio-borghi) or drop me an email at caiohoborghi@gmail.com. I'll try my best to respond as soon as possible!
+Two VSCode extensions with 100,000+ users:
+- [VSCode AutoSave](https://marketplace.visualstudio.com/items?itemName=codista.vscode-autosave) — Saves files when error-free
+- [GPT Coder](https://marketplace.visualstudio.com/items?itemName=codista.vscodewriter) — Early GPT-3 integration for VSCode
 
 
+AI-Powered tools:
+- [Coruja Review](https://corujareview.com) - OSS BYOK AI-powered PR Review Tool
+- [Listen Bun](https://github.com/ocodista/whisper_bun) - Speech to Text tool using Bun, TypeScript and Faster Whisper model
 
+OSS remote work newsletter with profile matching:
+- [Trampar de Casa](https://github.com/ocodista/trampar-de-casa)
+
+## Current Role
+
+Senior React Developer at Swoogo, building event management software and data solutions.
+
+## Contact
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/caio-borghi) or at caiohoborghi@gmail.com.
